@@ -1,7 +1,7 @@
 <param ve-config 
        title="Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
        author="Sun Woo Yoon"
-       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Starr_980529-1406_Clitoria_ternatea.jpg/640px-Starr_980529-1406_Clitoria_ternatea.jpg"
        layout="vertical">
        
 For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
