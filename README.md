@@ -1,6 +1,6 @@
 <param ve-config 
-       title="Essay Title"
-       author="Author"
+       title="Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
+       author="Sun Woo Yoon"
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        layout="vertical">
        
