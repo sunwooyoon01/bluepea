@@ -1,3 +1,9 @@
+<param ve-config 
+       title="Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
+       author="Sun Woo Yoon"
+       banner="bluepea/media/banner.jpg"
+       layout="vertical">
+
 Across Singapore’s many gardens, it is not uncommon to find the blue pea flower, a slender climber that has found itself embedded in Singapore’s cultural and ecological landscapes. Climbing alongside the manifold edible and ornamental plants that are grown across Singapore, the blue pea flower (*Clitoria ternatea*; also known as butterfly pea, bunga telang in Malay, and 蝶豆 in Chinese) is known for its pleasant blue color and its many uses as a dyeing agent in local food and drink. Traditional kuehs, thunder tea rice, blue pea tea, and even novelty cocktails in Singapore make use of the blue pea’s striking blue color—a color that has captured the cultural imagination surrounding this plant for decades. 
 
 Despite the cultural interest surrounding the flower, common perceptions of the flower often reduce it to its color and ornamental value. The flower is not one that is particularly revered—the director of the Singapore Botanic Gardens in 1947 writes in a *Straits Budget* article that “[the blue pea flower] is not showy, nor long-lived, but the colour of the flowers is unusual, and they are of a good size.”[^1] Small, humble, yet interesting, the blue pea occupies an interesting axis in logics of valuation and intimacy. Its stunning color, coupled with its typically pedestrian occurrence in Singapore’s landscapes, gives the plant the affective quality of humility, coexistence, and friendship, from the soil, to the garden, and into the kitchen.
@@ -29,11 +35,7 @@ Such is all reflected in a rather interesting primary source: Ethan Ee Hom Tan�
 ## Conclusion
 
 In this article, I sought to illustrate the ways in which the blue pea flower has “grown alongside” Singapore and its communities, fostering relationships with ecological, social, and cultural groups. Instead of positioning this non-native species as an invader, this paper has attempted to investigate the affective qualities that the plant possesses through a look at its many types of social, cultural, and environmental relationships in Singapore. More broadly, there is a story about urbanism and nature here—about what it means for a plant to live in a city today and what this may reveal about seemingly disconnected themes such as communal unity, science education, personal relationships, and the preservation of local culture.
-<param ve-config 
-       title="Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
-       author="Sun Woo Yoon"
-       banner="bluepea/media/banner.jpg"
-       layout="vertical">
+
        
 
 
