@@ -68,6 +68,23 @@ In this article, I sought to illustrate the ways in which the blue pea flower ha
 # References
 
 [^1]: R. E. Holttum, “Slender Climbers,” *Straits Budget*, October 2, 1947, 16. 
+[^2]: Timothy Pwee, “Butterfly Pea,” Singapore Infopedia (National Library Board, 2016), https://eresources.nlb.gov.sg/infopedia/articles/SIP_763_2004-12-20.html, n.p.
+[^3]: Geok Boi Lee, “The Evolution of Straits-Born Cuisine,” BiblioAsia 17, no. 2 (September 2021): 35. 
+[^4]: Timothy Pwee, “Butterfly Pea,” Singapore Infopedia (National Library Board, 2016), https://eresources.nlb.gov.sg/infopedia/articles/SIP_763_2004-12-20.html, n.p.
+[^5]: “Clitoria Ternatea L.,” Flora Fauna Web (National Parks , August 10, 2022), https://www.nparks.gov.sg/florafaunaweb/flora/1/3/1372, n.p.
+[^6]: Aliah Poh, “Research of the Ecology and Morphology of Clitoria Ternatea,” October 6, 2019, https://doi.org/10.13140/RG.2.2.20004.63362, 2. 
+[^7]: Julissa Rojas-Sandoval, “Clitoria Ternatea (Butterfly-Pea),” CABI Compendium, September 6, 2016, https://doi.org/10.1079/cabicompendium.55416.
+[^8]: Timothy Pwee, “Butterfly Pea,” Singapore Infopedia (National Library Board, 2016), https://eresources.nlb.gov.sg/infopedia/articles/SIP_763_2004-12-20.html, n.p.
+[^9]: Timothy P. Barnard, Nature Contained : Environmental Histories of Singapore (Singapore: NUS Press, 2014), 47.
+[^10]: Is Fatimah et al., “One-Pot Biosynthesis of SnO2 Quantum Dots Mediated by Clitoria Ternatea Flower Extract for Photocatalytic Degradation of Rhodamine B,” Journal of Environmental Chemical Engineering 8, no. 4 (August 1, 2020): 103879–79, https://doi.org/10.1016/j.jece.2020.103879, 10.
+[^11]: Jeffrey Hou, “Urban Community Gardens as Multimodal Social Spaces,” in Greening Cities: Forms and Functions, ed. Puay Yok Tan and Chi Yung Jim (Springer, 2017), 118. 
+[^12]: Leon H.H. Tan and Harvey Neo, “‘Community in Bloom’: Local Participation of Community Gardens in Urban Singapore,” Local Environment 14, no. 6 (July 2009): 529–39, https://doi.org/10.1080/13549830902904060, 529.
+[^13]: Ibid.
+[^14]: Leon H.H. Tan and Harvey Neo, “‘Community in Bloom’: Local Participation of Community Gardens in Urban Singapore,” Local Environment 14, no. 6 (July 2009): 529–39, https://doi.org/10.1080/13549830902904060, 524
+[^15]: Toh qtd. in Leon H.H. Tan and Harvey Neo, “‘Community in Bloom’: Local Participation of Community Gardens in Urban Singapore,” Local Environment 14, no. 6 (July 2009): https://doi.org/10.1080/13549830902904060, 534.
+
+
+
 
 
 
