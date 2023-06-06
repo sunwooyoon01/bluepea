@@ -14,7 +14,7 @@ This is how you add a footnote. [^1]
 
 [This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
 
-This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
+This is how you add a mouse-over information panel from Wiki data: <span eid="Q3827">Maluku Islands</span>
 You can find the wikidata IDs by searching for proper nouns [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
 
 **There's no spell-check feature built in, so keep a careful eye out!**
@@ -88,7 +88,7 @@ Despite the cultural interest surrounding the flower, common perceptions of the 
 
 ## Ecological Friendship
 
-The blue pea flower’s ubiquity and cultural relevance in Singapore have led many to assume the flower is a native one, yet the origins of the flower are not exactly clear. Some believe that the plant only became naturalized during the European arrival into Southeast Asia during the colonial era. Native to Ternate (in the present-day Malaku Islands), *C. ternatea* is thought to have migrated out of the Malaku Islands to India in the 17th century, moving north towards Europe, and only becoming fully naturalized in Southeast Asia after the expansion of the colonial project and increasing species exchange across landscapes and islands, although sources and accounts of the plant are sparse.
+The blue pea flower’s ubiquity and cultural relevance in Singapore have led many to assume the flower is a native one, yet the origins of the flower are not exactly clear. Some believe that the plant only became naturalized during the European arrival into Southeast Asia during the colonial era. Native to Ternate (in the present-day Malaku Islands), *C. ternatea* is thought to have migrated out of the <span eid="Q3827">Maluku Islands</span> to India in the 17th century, moving north towards Europe, and only becoming fully naturalized in Southeast Asia after the expansion of the colonial project and increasing species exchange across landscapes and islands, although sources and accounts of the plant are sparse.
 
 Interestingly, the blue pea calls home the same islands where nutmeg and clove originated, in the so-called Spice Islands. Both nutmeg and clove became staple plantation crops in Singapore during the colonial period. Unlike that of the lucrative spices, however, the naturalization of blue pea into Singapore is understood to have been spontaneous, owing in large part to the species’ ability to flourish under a wide range of soil conditions and its adaptability to both tropical and subtropical climates. While the blue pea’s high level of adaptability has led it to be considered invasive in parts of the world including Australia, the Pacific Islands, and the Galapagos, where the plant has overtaken and colonized entire ecosystems, this has not happened in Singapore, and the flower is thus not considered invasive. 
 
