@@ -6,13 +6,26 @@
 
 Across Singapore’s many gardens, it is not uncommon to find the blue pea flower, a slender climber that has found itself embedded in Singapore’s cultural and ecological landscapes. Climbing alongside the manifold edible and ornamental plants that are grown across Singapore, the blue pea flower (*Clitoria ternatea*; also known as butterfly pea, bunga telang in Malay, and 蝶豆 in Chinese) is known for its pleasant blue color and its many uses as a dyeing agent in local food and drink. Traditional kuehs, thunder tea rice, blue pea tea, and even novelty cocktails in Singapore make use of the blue pea’s striking blue color—a color that has captured the cultural imagination surrounding this plant for decades. 
 
+<param ve-image 
+       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       title="Mangosteen Photograph" 
+       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
+
 Despite the cultural interest surrounding the flower, common perceptions of the flower often reduce it to its color and ornamental value. The flower is not one that is particularly revered—the director of the Singapore Botanic Gardens in 1947 writes in a *Straits Budget* article that “[the blue pea flower] is not showy, nor long-lived, but the colour of the flowers is unusual, and they are of a good size.”[^1] Small, humble, yet interesting, the blue pea occupies an interesting axis in logics of valuation and intimacy. Its stunning color, coupled with its typically pedestrian occurrence in Singapore’s landscapes, gives the plant the affective quality of humility, coexistence, and friendship, from the soil, to the garden, and into the kitchen.
+
+<param ve-image 
+       url="media/victoria-crowned=pigeon.jpg"
+       title="Victoria crowned pigeon"
+       attribution="Katherine Enright">  
 
 ## Ecological Friendship
 
-The blue pea flower’s ubiquity and cultural relevance in Singapore have led many to assume the flower is a native one, yet the origins of the flower are not exactly clear. Some believe that the plant only became naturalized during the European arrival into Southeast Asia during the colonial era. Native to Ternate (in the present-day <span eid="Q3827">Maluku Islands</span>), *C. ternatea* is thought to have migrated out of the Maluku Islands to India in the 17th century, moving north towards Europe, and only becoming fully naturalized in Southeast Asia after the expansion of the colonial project and increasing species exchange across landscapes and islands, although sources and accounts of the plant are sparse.
-
-Interestingly, the blue pea calls home the same islands where nutmeg and clove originated, in the so-called Spice Islands. Both nutmeg and clove became staple plantation crops in Singapore during the colonial period. Unlike that of the lucrative spices, however, the naturalization of blue pea into Singapore is understood to have been spontaneous, owing in large part to the species’ ability to flourish under a wide range of soil conditions and its adaptability to both tropical and subtropical climates. While the blue pea’s high level of adaptability has led it to be considered invasive in parts of the world including Australia, the Pacific Islands, and the Galapagos, where the plant has overtaken and colonized entire ecosystems, this has not happened in Singapore, and the flower is thus not considered invasive. 
+<param ve-image 
+       url="media/victoria-crowned=pigeon.jpg"
+       title="Victoria crowned pigeon"
+       attribution="Katherine Enright">  
+       
+The blue pea flower’s ubiquity and cultural relevance in Singapore have led many to assume the flower is a native one, yet the origins of the flower are not exactly clear. Some believe that the plant only became naturalized during the European arrival into Southeast Asia during the colonial era. Native to Ternate (in the present-day <span eid="Q3827">Maluku Islands</span>), *C. ternatea* is thought to have migrated out of the Maluku Islands to India in the 17th century, moving north towards Europe, and only becoming fully naturalized in Southeast Asia after the expansion of the colonial project and increasing species exchange across landscapes and islands, although sources and accounts of the plant are sparse. Interestingly, the blue pea calls home the same islands where nutmeg and clove originated, in the so-called Spice Islands. Both nutmeg and clove became staple plantation crops in Singapore during the colonial period. Unlike that of the lucrative spices, however, the naturalization of blue pea into Singapore is understood to have been spontaneous, owing in large part to the species’ ability to flourish under a wide range of soil conditions and its adaptability to both tropical and subtropical climates. While the blue pea’s high level of adaptability has led it to be considered invasive in parts of the world including Australia, the Pacific Islands, and the Galapagos, where the plant has overtaken and colonized entire ecosystems, this has not happened in Singapore, and the flower is thus not considered invasive. 
 
 The blue pea’s adaptation into Singapore’s ecologies can actually be considered somewhat beneficial and perhaps even “friendly.” *C. Ternatea* has the ability to increase soil nitrogen levels, providing restoration to degraded and malnourished soils—one of the many negative environmental consequences of Singapore’s history of plantation monocropping. In fact, emerging research suggest that studying the blue pea could offer ecologists and biochemists clues towards more effective phytoextraction: removing contaminants and toxins from soils using hyperaccumulator plant bodies. 
 
