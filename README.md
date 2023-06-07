@@ -7,7 +7,7 @@
 Across Singapore’s many gardens, it is not uncommon to find the blue pea flower, a slender climber that has found itself embedded in Singapore’s cultural and ecological landscapes. Climbing alongside the manifold edible and ornamental plants that are grown across Singapore, the blue pea flower (*Clitoria ternatea*; also known as butterfly pea, bunga telang in Malay, and 蝶豆 in Chinese) is known for its pleasant blue color and its many uses as a dyeing agent in local food and drink. Traditional kuehs, thunder tea rice, blue pea tea, and even novelty cocktails in Singapore make use of the blue pea’s striking blue color—a color that has captured the cultural imagination surrounding this plant for decades. 
 
 <param ve-image 
-       url="media/herbarium.jpeg"
+       url="https://raw.githubusercontent.com/sunwooyoon01/bluepea/main/media/herbarium.jpeg"
        title="Species image of Clitoria ternatea"
        attribution="SING Herbarium, Singapore Botanic Gardens"
        license="© SING Herbarium, Singapore Botanic Gardens, used with permission">
@@ -15,14 +15,14 @@ Across Singapore’s many gardens, it is not uncommon to find the blue pea flowe
 Despite the cultural interest surrounding the flower, common perceptions of the flower often reduce it to its color and ornamental value. The flower is not one that is particularly revered—the director of the Singapore Botanic Gardens in 1947 writes in a *Straits Budget* article that “[the blue pea flower] is not showy, nor long-lived, but the colour of the flowers is unusual, and they are of a good size.”[^1] Small, humble, yet interesting, the blue pea occupies an interesting axis in logics of valuation and intimacy. Its stunning color, coupled with its typically pedestrian occurrence in Singapore’s landscapes, gives the plant the affective quality of humility, coexistence, and friendship, from the soil, to the garden, and into the kitchen.
 
 <param ve-image 
-       url="media/driedbluepea.jpg"
+       url="https://raw.githubusercontent.com/sunwooyoon01/bluepea/main/sunwooyoon01/media/driedbluepea.jpg"
        title="Dried blue pea flower at Tiong Bahru Market"
        attribution="Anthony Medrano">  
 
 ## Ecological Friendship
 
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Starr_980529-1406_Clitoria_ternatea.jpg/640px-Starr_980529-1406_Clitoria_ternatea.jpg"
+       url="https://iiif.juncture-digital.org/wc:Starr_980529-1406_Clitoria_ternatea.jpg/manifest.json"
        title="Blue pea flower"
        attribution="Forest & Kim Starr">  
        
