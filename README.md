@@ -56,7 +56,7 @@ Such is all reflected in a rather interesting primary source: Ethan Ee Hom Tan�
 
 In this article, I sought to illustrate the ways in which the blue pea flower has “grown alongside” Singapore and its communities, fostering relationships with ecological, social, and cultural groups. Instead of positioning this non-native species as an invader, this paper has attempted to investigate the affective qualities that the plant possesses through a look at its many types of social, cultural, and environmental relationships in Singapore. More broadly, there is a story about urbanism and nature here—about what it means for a plant to live in a city today and what this may reveal about seemingly disconnected themes such as communal unity, science education, personal relationships, and the preservation of local culture.
 <param ve-image 
-       url="https://iiif.juncture-digital.org/wc:Clitoria_ternatea.jpg/manifest.json"
+       url="wc:Clitoria_ternatea.jpg"
        title="Photograph of Blue Pea"
        attribution="Wilfredor">  
 
