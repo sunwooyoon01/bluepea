@@ -10,7 +10,8 @@ Across Singapore’s many gardens, it is not uncommon to find the blue pea flowe
        url="https://raw.githubusercontent.com/sunwooyoon01/bluepea/main/media/herbarium.jpeg"
        title="Species image of Clitoria ternatea"
        attribution="SING Herbarium, Singapore Botanic Gardens"
-       license="© SING Herbarium, Singapore Botanic Gardens, used with permission">
+       fit="contain"
+       license="©SING Herbarium, Singapore Botanic Gardens, used with permission">
 
 Despite the cultural interest surrounding the flower, common perceptions of the flower often reduce it to its color and ornamental value. The flower is not one that is particularly revered—the director of the Singapore Botanic Gardens in 1947 writes in a *Straits Budget* article that “[the blue pea flower] is not showy, nor long-lived, but the colour of the flowers is unusual, and they are of a good size.”[^1] Small, humble, yet interesting, the blue pea occupies an interesting axis in logics of valuation and intimacy. Its stunning color, coupled with its typically pedestrian occurrence in Singapore’s landscapes, gives the plant the affective quality of humility, coexistence, and friendship, from the soil, to the garden, and into the kitchen.
 
