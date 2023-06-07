@@ -1,7 +1,7 @@
 <param ve-config 
        title="Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
        author="Sun Woo Yoon"
-       banner="media/banner.jpg"
+       banner="https://raw.githubusercontent.com/sunwooyoon01/bluepea/main/media/banner.jpg"
        layout="vertical">
 
 Across Singapore’s many gardens, it is not uncommon to find the blue pea flower, a slender climber that has found itself embedded in Singapore’s cultural and ecological landscapes. Climbing alongside the manifold edible and ornamental plants that are grown across Singapore, the blue pea flower (*Clitoria ternatea*; also known as butterfly pea, bunga telang in Malay, and 蝶豆 in Chinese) is known for its pleasant blue color and its many uses as a dyeing agent in local food and drink. Traditional kuehs, thunder tea rice, blue pea tea, and even novelty cocktails in Singapore make use of the blue pea’s striking blue color—a color that has captured the cultural imagination surrounding this plant for decades. 
